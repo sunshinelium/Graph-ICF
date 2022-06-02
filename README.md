@@ -1,3 +1,6 @@
+Graph-ICF:  Item-based Collaborative Filtering based on Graph Neural Network. Knowledge-based systerms
+
+
 ## Enviroment Requirement
 
 `pip install -r requirements.txt`
